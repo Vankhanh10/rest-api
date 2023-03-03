@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "name": "Javascript Base",
+      "description": "Kiến thức cơ bản",
+      "id": 1
+    },
+    {
+      "name": "Javascript High (High level)",
+      "description": "Kiến thức nâng cao",
+      "id": 2
+    }
+  ]
+}

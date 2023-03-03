@@ -1,0 +1,8 @@
+input[name = "name"] {
+    width: 500px;
+    margin-bottom: 10px;
+}
+input[name = "description"] {
+    width: 463px;
+    margin-bottom: 10px;
+}
